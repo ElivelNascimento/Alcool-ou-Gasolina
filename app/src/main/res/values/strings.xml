@@ -2,5 +2,5 @@
     <string name="app_name">Alcool ou Gasolina</string>
     <string name="app_gasolina">Qula o valor da Gasolina</string>
     <string name="app_sifrao">R$</string>
-    <string name="app_resultado">Valor</string>
+    <string name="app_resultado">Use a barra para selecionar o valor da gasolina </string>
 </resources>
